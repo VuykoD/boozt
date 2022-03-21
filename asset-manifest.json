@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/boozt/static/css/main.4fffe31c.css",
+    "main.js": "/boozt/static/js/main.155df2d5.js",
+    "static/js/787.7ccc9aab.chunk.js": "/boozt/static/js/787.7ccc9aab.chunk.js",
+    "static/media/logo.jpg": "/boozt/static/media/logo.67b1e2ca981ff06dc3d1.jpg",
+    "static/media/asi1011b189_cblackwhite_v003.jpg": "/boozt/static/media/asi1011b189_cblackwhite_v003.c6f351e86bea9853858c.jpg",
+    "static/media/asi1011b192_cblackpuresilver_v001.jpg": "/boozt/static/media/asi1011b192_cblackpuresilver_v001.3331757f5cc5276b4df2.jpg",
+    "static/media/nbamarislb3_cblack.jpg": "/boozt/static/media/nbamarislb3_cblack.bb3216dcb89822e72425.jpg",
+    "static/media/adief6868_ccblackgrefousolred.jpg": "/boozt/static/media/adief6868_ccblackgrefousolred.ee2a808a44a15e5d411c.jpg",
+    "static/media/adify5943_ccblackftwwhtgresix.jpg": "/boozt/static/media/adify5943_ccblackftwwhtgresix.86a676079169047940cc.jpg",
+    "static/media/asi1011b175_cblackwhite_v002.jpg": "/boozt/static/media/asi1011b175_cblackwhite_v002.c2dac0f88100675c2877.jpg",
+    "static/media/asi1011b185_cblackwhite_v002.jpg": "/boozt/static/media/asi1011b185_cblackwhite_v002.9a4ef588010d7872a4ec.jpg",
+    "static/media/asi1011b034_cwhitewhite_v101.jpg": "/boozt/static/media/asi1011b034_cwhitewhite_v101.e0b2587e163077bbb150.jpg",
+    "index.html": "/boozt/index.html",
+    "main.4fffe31c.css.map": "/boozt/static/css/main.4fffe31c.css.map",
+    "main.155df2d5.js.map": "/boozt/static/js/main.155df2d5.js.map",
+    "787.7ccc9aab.chunk.js.map": "/boozt/static/js/787.7ccc9aab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fffe31c.css",
+    "static/js/main.155df2d5.js"
+  ]
+}
