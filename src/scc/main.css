@@ -1,0 +1,32 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.h1 {
+    font-size: 22px;
+}
+
+.breadcrumb {
+    font-size: 13px;
+}
+
+.right {
+    float: right;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.product {
+    font-size: 12px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.lineThrough {
+    text-decoration: line-through;
+    padding-left: 7px;
+}

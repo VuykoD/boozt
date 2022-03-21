@@ -1,0 +1,66 @@
+{
+  "asics0002": {
+    "price": 90,
+    "discount": 0,
+    "img": "asi1011b034_cwhitewhite_v101",
+    "popular": 2,
+    "brand": "asics",
+    "model": "GEL-KAYANO 13"
+  },
+  "asics0001": {
+    "price": 120,
+    "discount": 10,
+    "img": "asi1011b189_cblackwhite_v003",
+    "popular": 1,
+    "brand": "asics",
+    "model": "GEL-KAYANO 28"
+  },
+  "asics0003": {
+    "price": 95,
+    "discount": 0,
+    "img": "asi1011b175_cblackwhite_v002",
+    "popular": 3,
+    "brand": "asics",
+    "model": "GT-2000 10"
+  },
+  "asics0004": {
+    "price": 145,
+    "discount": 0,
+    "img": "asi1011b185_cblackwhite_v002",
+    "popular": 4,
+    "brand": "asics",
+    "model": "NOVABLAST 2"
+  },
+  "adi0001": {
+    "price": 130,
+    "discount": 0,
+    "img": "adief6868_ccblackgrefousolred",
+    "popular": 5,
+    "brand": "adidas Performance",
+    "model": "Run Falcon 2.0"
+  },
+  "asics0005": {
+    "price": 120,
+    "discount": 25,
+    "img": "asi1011b192_cblackpuresilver_v001",
+    "popular": 6,
+    "brand": "asics",
+    "model": "GEL-VENTURE 8"
+  },
+  "adi0002": {
+    "price": 130,
+    "discount": 15,
+    "img": "adify5943_ccblackftwwhtgresix",
+    "popular": 7,
+    "brand": "adidas Performance",
+    "model": "Terrex Agravic TR GORE-TEX Trail Running"
+  },
+  "nba0001": {
+    "price": 150,
+    "discount": 25,
+    "img": "nbamarislb3_cblack",
+    "popular": 8,
+    "brand": "New Balance",
+    "model": "MARISLB3"
+  }
+}
