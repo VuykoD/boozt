@@ -26,6 +26,7 @@ export default class App extends Component {
             showSortModal: false,
             sort: 'popular'
         };
+
     }
 
     showSortModal =()=> this.setState({ showSortModal: true });
